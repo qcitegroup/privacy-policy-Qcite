@@ -1,0 +1,6 @@
+Privacy Policy – Qcite
+
+Qcite does not collect, store, or share any user data.
+The extension only interacts with Google Scholar pages to copy citation text (APA and BibTeX) to the clipboard when a user clicks a button.
+No personal or identifiable information is accessed or transmitted.
+Qcite operates entirely on the client side and does not connect to any external servers.
